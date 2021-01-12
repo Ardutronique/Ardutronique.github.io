@@ -2,4 +2,4 @@
 
 ## simple page with my social networks
 
-[VISITEZ MA PAGE !!](https://yannis-mlgrn.github.io)
+[LOOK MY PAGE !!](https://yannis-mlgrn.github.io)
